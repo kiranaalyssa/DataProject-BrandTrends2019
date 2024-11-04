@@ -1,0 +1,13 @@
+/* Gaya untuk headline */
+div.headline {
+    font-size: 22px; /* Ukuran font */
+    font-weight: bold; /* Ketebalan font */
+    color: #4e73df; /* Warna font */
+    background-color: #f8f9fc; /* Warna latar belakang */
+    border: 1px solid #dee2e6; /* Garis luar */
+    padding: 20px; /* Ruang dalam */
+    margin-bottom: 20px; /* Jarak antar plot */
+    border-left: 5px solid #4e73df; /* Garis di sebelah kiri */
+    border-radius: 5px; /* Sudut melengkung */
+    box-shadow: 0 0.15rem 0.75rem 0 rgba(58, 59, 69, 0.2); /* Bayangan */
+}
