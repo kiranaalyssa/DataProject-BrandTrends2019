@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 # Baca style CSS
-with open('styles.css') as f:
+with open('dashboard/styles.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 # Menambahkan headline dengan gaya dari CSS
