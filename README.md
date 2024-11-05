@@ -1,5 +1,6 @@
 # DQLab Project - Brand Trends 2019
 **🌟 About Project**
+
 This project aims to analyze the sales of top brands in December 2019, identify daily trends, and understand the relationship between price, quantity, and Gross Merchandise Value (GMV) of sold products.
 
 **🎯 Project Goals**
